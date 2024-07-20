@@ -15,5 +15,5 @@ huggingface地址：
 链接：https://pan.baidu.com/s/1WnTGlo0LI9xkT4-Hufr4Kw?pwd=q2j4
 提取码：q2j4
 
-## 运行效果
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1106385307&bvid=BV1tw4m1k7jG&cid=1621640710&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+## 运行效果展示
+哔哩哔哩： https://www.bilibili.com/video/BV1tw4m1k7jG
