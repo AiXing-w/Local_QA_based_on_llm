@@ -1,0 +1,11 @@
+{
+    "endpoint_url":"http://127.0.0.1:8000",
+    "embedding_model":{
+        "model_path":"models/shibing624/text2vec-base-chinese",
+        "encode_kwargs":{"normalize_embeddings": false},
+        "model_kwargs":{"device":"cuda:0"}
+    },
+    "llm": {
+        "model_path": "models/THUDM/chatglm-6b"
+    }
+}

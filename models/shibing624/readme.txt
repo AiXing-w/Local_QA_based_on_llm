@@ -1,0 +1,1 @@
+模型权值下载地址：https://huggingface.co/shibing624/text2vec-base-chinese

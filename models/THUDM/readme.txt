@@ -1,0 +1,1 @@
+模型权值下载地址：https://huggingface.co/THUDM/chatglm-6b
