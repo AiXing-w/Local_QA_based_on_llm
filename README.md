@@ -10,9 +10,9 @@
 - 根据文章段落，进行提示词工程，模型会根据提示词回答问题并给出问题答案（这一步骤对用户透明，即提示词工程自动完成）
 ## 模型下载地址
 
-- huggingface地址：
-->  text2vec-base-chinese：https://huggingface.co/shibing624/text2vec-base-chinese
-->  chatglm-6b：https://huggingface.co/THUDM/chatglm-6b
+### huggingface地址：
+- text2vec-base-chinese：https://huggingface.co/shibing624/text2vec-base-chinese
+- chatglm-6b：https://huggingface.co/THUDM/chatglm-6b
 
 ## 网盘下载
 如果huggingface下载有问题，可以网盘下载
